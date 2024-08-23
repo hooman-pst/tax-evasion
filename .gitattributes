@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+nemone_2_darsadi_1402.csv filter=lfs diff=lfs merge=lfs -text
